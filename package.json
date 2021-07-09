@@ -1,0 +1,21 @@
+{
+  "name": "next-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "10.0.6",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.3.0",
+    "@types/react": "16.9.43",
+    "@types/react-dom": "16.9.8",
+    "typescript": "^4.1.5"
+  }
+}
